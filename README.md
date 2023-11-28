@@ -11,11 +11,25 @@ Harmony OS学习笔记
 目录
 ===  
 
-- [HarmonyOS简介][1]
+
+HarmonyOS NEXT版本目前仅开发给合作的企业，个人开发者仍无法查看文档。
+
+因此目前是基于HarmonyOS 4.0版本，NEXT发布后会再更新
+
+- [1.HarmonyOS简介][1]
+- [2.ArtTS入门][2]
+- [3.HarmonyOS开发术语][3]
+- [4.HarmonyOS应用开发初探][4]
+- [5.ArtUI入门][1]
 
     
 
-[1]: https://github.com/CharonChui/AndroidNote/blob/master/SourceAnalysis/%E8%87%AA%E5%AE%9A%E4%B9%89View%E8%AF%A6%E8%A7%A3.md        "HarmonyOS简介"
+[1]:         "1.HarmonyOS简介"
+[2]:         "2.ArtTS入门"
+[3]:         "3.HarmonyOS开发术语"
+[4]:         "4.HarmonyOS应用开发初探"
+[5]:         "5.ArtUI入门"
+
 
 
 
