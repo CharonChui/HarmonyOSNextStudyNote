@@ -1,7 +1,10 @@
 HarmonyOS Next 学习笔记  
 ===
 
-![image](https://github.com/CharonChui/Pictures/blob/master/hongment.jpg)
+<image src='' with='50%'  >
+
+<img src="https://github.com/CharonChui/Pictures/blob/master/hongment.jpg" width="50%" height="50%" />
+
 
 > 混沌未分天地乱，茫茫渺渺无人见。      
 > 自从盘古破鸿蒙，开辟从兹清浊辨。     
