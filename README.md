@@ -1,7 +1,6 @@
 HarmonyOS Next 学习笔记  
 ===
 
-<image src='' with='50%'  >
 
 <img src="https://github.com/CharonChui/Pictures/blob/master/hongment.jpg" width="50%" height="50%" />
 
