@@ -1,20 +1,28 @@
-Harmony OS学习笔记  
+HarmonyOS Next 学习笔记  
 ===
 
-![image](https://raw.githubusercontent.com/CharonChui/Pictures/master/note.jpg)
+![image](https://raw.githubusercontent.com/CharonChui/Pictures/master/hongment.jpg)
 
-> 十年生死两茫茫，不思量，自难忘，华年短暂，陈辞岁月悠悠伤，        
-> 满腔热血已芜荒，展未来，后生强，战战兢兢，如履薄冰心彷徨，            
-> 青丝化雪、鬓角成霜，已是英雄迟暮，人生怎慷慨激昂？
+> 混沌未分天地乱，茫茫渺渺无人见。      
+> 自从盘古破鸿蒙，开辟从兹清浊辨。     
+> 覆载群生仰至仁，发明万物接为善。    
+> 欲知造化会元功，须看西游释厄传。     
+
+
+鸿蒙，是一个汉语词语，亦作“鸿濛”。传说在盘古开天辟地之前，世界是一团混沌状，因此人们把那个时代称作鸿蒙时代，后来该词也常被用来泛指远古时代。
+
+在"老子"看来，一切具体存在的本源都是混沌，万物是由混沌中产生的。“盘古开天辟地”的故事家喻户晓，而天地万物就是从混沌中孕育而生的。
+
+> 道生一，一生二，二生三，三生万物
 
 
 目录
 ===  
 
 
-HarmonyOS NEXT版本目前仅开发给合作的企业，个人开发者仍无法查看文档。
+**HarmonyOS NEXT版本目前仅开发给合作的企业，个人开发者仍无法查看文档。**
 
-因此目前是基于HarmonyOS 4.0版本，NEXT发布后会再更新
+**因此目前是基于HarmonyOS 4.0版本，NEXT发布后会再更新**
 
 - [1.HarmonyOS简介][1]
 - [2.ArtTS入门][2]
@@ -24,11 +32,11 @@ HarmonyOS NEXT版本目前仅开发给合作的企业，个人开发者仍无法
 
     
 
-[1]:         "1.HarmonyOS简介"
-[2]:         "2.ArtTS入门"
-[3]:         "3.HarmonyOS开发术语"
-[4]:         "4.HarmonyOS应用开发初探"
-[5]:         "5.ArtUI入门"
+[1]: https://github.com/CharonChui/HarmonyOSNextStudyNote/blob/main/1.HarmonyOS%E7%AE%80%E4%BB%8B.md        "1.HarmonyOS简介"
+[2]: https://github.com/CharonChui/HarmonyOSNextStudyNote/blob/main/2.ArtTS%E5%85%A5%E9%97%A8.md        "2.ArtTS入门"
+[3]: https://github.com/CharonChui/HarmonyOSNextStudyNote/blob/main/3.HarmonyOS%E5%BC%80%E5%8F%91%E6%9C%AF%E8%AF%AD.md        "3.HarmonyOS开发术语"
+[4]: https://github.com/CharonChui/HarmonyOSNextStudyNote/blob/main/4.HarmonyOS%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%88%9D%E6%8E%A2.md        "4.HarmonyOS应用开发初探"
+[5]: https://github.com/CharonChui/HarmonyOSNextStudyNote/blob/main/5.ArtUI%E5%85%A5%E9%97%A8.md        "5.ArtUI入门"
 
 
 
